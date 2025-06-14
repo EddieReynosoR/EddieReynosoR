@@ -22,22 +22,15 @@ Check out my <a href="https://eddiereynoso.vercel.app/" target="_blank" rel="noo
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
 <div align="center">
 
@@ -48,10 +41,6 @@ Check out my <a href="https://eddiereynoso.vercel.app/" target="_blank" rel="noo
 </a>
 </div>
 
-<br>
-<br>
-<br>
-
 -----
 
 <br>
@@ -59,27 +48,6 @@ Check out my <a href="https://eddiereynoso.vercel.app/" target="_blank" rel="noo
 
 <br>
 <div align='left'>
-
-<ul>
-
-<li>
 <a href="https://www.linkedin.com/in/eduardo-reynoso-rosales-8a9590280/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Eduardo Reynoso Rosales-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:eduardo_3reynoso@hotmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Eduardo Reynoso Rosales-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<br>
-<br>
-<br>
