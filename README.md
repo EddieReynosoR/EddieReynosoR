@@ -2,9 +2,9 @@
 <h1 align="center"><b>Hi , I'm Eddie Reynoso </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## **About me**
-- A passionate developer
-- Personal website (not finished yet) [link](https://eddiereynoso.vercel.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1XHH91UBWY-eq9c9Mtp-lG3aTYYxor2UD/view?usp=sharing)
+I'm a Software Developer passionate about the idea of ​​being able to convert ideas into technological solutions that positively impact the lives of others. By constantly learning and searching for new challenges that allow me to continue growing as a professional.
+
+Check out my <a href="https://eddiereynoso.vercel.app/">Portfolio</a>
 
 <br><br>
 
