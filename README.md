@@ -6,10 +6,6 @@
 <br>
 
 ## **About me**
-
-
-<br>
-
 - A passionate developer
 - Personal website (not finished yet) [link](https://eddiereynoso.vercel.app/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1XHH91UBWY-eq9c9Mtp-lG3aTYYxor2UD/view?usp=sharing)
