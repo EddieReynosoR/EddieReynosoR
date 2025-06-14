@@ -4,10 +4,7 @@
 ## **About me**
 I'm a Software Developer passionate about the idea of ​​being able to convert ideas into technological solutions that positively impact the lives of others. By constantly learning and searching for new challenges that allow me to continue growing as a professional.
 
-Check out my <a href="https://eddiereynoso.vercel.app/">Portfolio</a>
-
-<br><br>
-
+Check out my <a href="https://eddiereynoso.vercel.app/" target="_blank" >Portfolio</a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
