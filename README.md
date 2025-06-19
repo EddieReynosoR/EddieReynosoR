@@ -20,19 +20,16 @@ I thrive on continuous learning, taking on new challenges, and constantly improv
 <p align="center">
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=cs,typescript,java,python" alt="Programming Languages" />
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Technologies
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,django,dotnet,spring,astro,android" alt="Web Technologies" />
+
+### 🗄️ Database Tools
+<img src="https://skillicons.dev/icons?i=postgres,supabase" alt="Database Tools" />
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google](https://img.shields.io/badge/Google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker" alt="Tools & Platforms" />
 
 </p>
 
